@@ -4,12 +4,15 @@
   "description": "ESLint configuration used by me",
   "main": "index.js",
   "private": false,
+  "repository": {
+    "url": "viniciusmendite/eslint-config-me"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.25.0",
     "@typescript-eslint/parser": "^5.25.0",
